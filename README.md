@@ -43,7 +43,8 @@ Dataset : History data provided by Shield Insurance
 
 ## Model deploy and Prediction using Streamlit App
 
-![prem-pred-streamlit](https://github.com/user-attachments/assets/c7cfa2e4-9a73-46e6-a70f-475301a1d9f6)
+![streamlit-prem-pred](https://github.com/user-attachments/assets/50994849-1684-4229-b9b7-127c83438fc6)
+
 
 
 Credits : Codebasics.io , Dhaval Patel, Hemanand Vadivel
