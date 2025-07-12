@@ -47,4 +47,3 @@ Dataset : History data provided by Shield Insurance
 
 
 
-Credits : Codebasics.io , Dhaval Patel, Hemanand Vadivel
